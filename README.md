@@ -21,4 +21,4 @@ with switch(value) as case:
 # Installation
 py-switchcase is available on pypi.
 
-`pip install switchcase`
+`pip install py-switchcase`
